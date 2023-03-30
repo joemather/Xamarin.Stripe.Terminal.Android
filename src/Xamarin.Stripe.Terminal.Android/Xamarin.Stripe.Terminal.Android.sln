@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.SquareUp.Moshi", "X
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Kotlin.Parcelize.Runtime", "Xamarin.Kotlin.Parcelize.Runtime\Xamarin.Kotlin.Parcelize.Runtime.csproj", "{59C4BB74-64D0-4395-822A-869E4DD81A2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StripeTerminal", "StripeTerminal\StripeTerminal.csproj", "{D7CAE1BD-41D0-4445-A564-1D5AAD987964}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{59C4BB74-64D0-4395-822A-869E4DD81A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59C4BB74-64D0-4395-822A-869E4DD81A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59C4BB74-64D0-4395-822A-869E4DD81A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7CAE1BD-41D0-4445-A564-1D5AAD987964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7CAE1BD-41D0-4445-A564-1D5AAD987964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7CAE1BD-41D0-4445-A564-1D5AAD987964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7CAE1BD-41D0-4445-A564-1D5AAD987964}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
